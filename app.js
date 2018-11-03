@@ -1,4 +1,4 @@
 (function () {
-    const kotek = 1;
-
+    	const kotek = 1;
+	const piesek = 2;
 })();
